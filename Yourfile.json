@@ -41,5 +41,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c090662934c5ec3c",
+        "key": "mafia420",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
     
 ]
