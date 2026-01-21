@@ -10,5 +10,12 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },,
+    {
+        "device_id": "4504e46892f76a21",
+        "key": "MAFIATRYAL",
+        "expirydate": "29-01-2026",
+        "Allowoffline": false
     }
+    
 ]
