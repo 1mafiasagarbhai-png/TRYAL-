@@ -95,5 +95,11 @@
         "expirydate": "02-02-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "0b562b71adac7cfb",
+        "key": "mafia009",
+        "expirydate": "02-02-2026",
+        "Allowoffline": false
+    },
     
 ]
