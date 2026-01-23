@@ -125,5 +125,11 @@
         "expirydate": "29-01-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "fc6587f8821a7041",
+        "key": "mafia298",
+        "expirydate": "03-02-2026",
+        "Allowoffline": false
+    },
     
 ]
