@@ -130,6 +130,12 @@
         "key": "mafia298",
         "expirydate": "03-02-2026",
         "Allowoffline": false
+    },,
+    {
+        "device_id": "68cb2316d47d74fb",
+        "key": "mafia2208",
+        "expirydate": "03-02-2026",
+        "Allowoffline": false
     },
     
 ]
